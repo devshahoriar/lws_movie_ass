@@ -1,0 +1,17 @@
+{
+  "forSideBar": {
+    "trend": "Trending",
+    "new_re": "New Releases",
+    "new_com": "Coming Soon",
+    "fev": "Favourites",
+    "watch_later": "Watch Later"
+  },
+  "str_hd": "Stream In HD",
+  "dow_hd": "Download In HD",
+  "detls": "Details",
+  "res_date": "Release Date",
+  "avg_vote": "Average Vote",
+  "count_vote": "Vote Count",
+  "popularity": "Popularity"
+  
+}
